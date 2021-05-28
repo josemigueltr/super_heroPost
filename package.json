@@ -1,0 +1,27 @@
+{
+  "name": "super_heroPost",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josemigueltr/super_heroPost.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josemigueltr/super_heroPost/issues"
+  },
+  "homepage": "https://github.com/josemigueltr/super_heroPost#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}
